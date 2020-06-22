@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>评论留言板</title>
+	<link rel="stylesheet" type="text/css" href="css/top.css">
+</head>
+	
+<body>
+	<!-- Gitalk 评论 start  -->
+
+	<!-- Link Gitalk 的支持文件  -->
+	<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+	<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+	<div id="gitalk-container"></div>     <script type="text/javascript">
+		var gitalk = new Gitalk({
+
+		// gitalk的主要参数
+			clientID: `2fd2ab3815576b77097f`,
+			clientSecret: `7444c1d9f7c26360af009062f6e4ab299b04fd2e`,
+			repo: `issue-repo-back`,
+			owner: 'hosizoraru',
+			admin: ['hosizoraru'],
+			id: 'hosizora',
+
+		});
+		gitalk.render('gitalk-container');
+	</script> 
+	<!-- Gitalk end -->
+		<div id="backtop"><a href="#">TOP↑</a></div>
+	<div id="backtoindex">
+		<form method="get" action="https://starsky.earth/">
+    	<button type="submit">back</button>
+		</form>
+	</div>
+</body>
+</html>

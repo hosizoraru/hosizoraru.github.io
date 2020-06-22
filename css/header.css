@@ -1,0 +1,43 @@
+/* CSS Document */
+
+#logo {height: auto ; width: auto; 
+		padding: inherit ; float: inherit ;
+	 	MARGIN-RIGHT: auto; MARGIN-LEFT: auto;
+	}
+#menu {height: 50px ; width: 1239px ; float: inherit ; background-color: darkturquoise ; font-size: 30px ;
+			 MARGIN-RIGHT: auto; MARGIN-LEFT: auto;
+		}
+#menu ul{list-style: none ; margin: auto}
+#menu ul li {float: left ; padding: 0 25px ; color: aqua ;
+			font-weight: bold ; font: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+			}
+#menu a:link { text-decoration: none ; color: aqua ; font-weight: normal }
+#menu a:hover {color: fuchsia}
+#menu a:active {color: blue}
+
+#banner {
+	width: auto ; height: auto ;
+	 MARGIN-RIGHT: auto; MARGIN-LEFT: auto;
+}
+
+#con_welcome {
+	font: bold ; font-size: 20px ;background-color: aquamarine ;
+	height: auto ; width: auto;
+	 MARGIN-RIGHT: auto; MARGIN-LEFT: auto;
+}
+#con_activity {
+	padding-right: 10px ; padding-bottom: 10px;
+}
+#footer {height: auto; width: auto ; float: inherit ; background-color: blue; font-size: 30px ;
+			margin: auto ;
+		}
+#footer p {
+	text-align: center ;
+}
+#footer ul{list-style: none ; margin: auto}
+#footer ul li {float: left ; padding: 0 25px ; color: aqua ;
+			font-weight: bold ; font: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace" ;
+			}
+#footer a:link { text-decoration: none ; color: aqua ; font-weight: normal }
+#footer a:hover {color: fuchsia}
+#footer a:active {color: blue}

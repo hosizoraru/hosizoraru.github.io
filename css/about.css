@@ -1,0 +1,19 @@
+/* CSS Document */
+
+#aboutus {
+	text-align: center ;
+}
+#aboutus p {
+	text-align: center ;
+	color: black ; font-size: 30px;
+}
+#aboutus h2 {
+	color:blueviolet; font-size: 20px ;
+	margin: auto ; height: auto ;
+	text-align: center ;
+}
+#aboutus h3 {
+	color:deepskyblue; font-size: 20px ;
+	margin: auto ; height: auto ;
+	text-align: center ;
+}

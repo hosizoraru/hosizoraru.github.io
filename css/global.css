@@ -1,0 +1,9 @@
+/* CSS Document */
+
+body {TEXT-ALIGN: center; font: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";}
+img{border: 0px;}
+.clear{clear: both;}
+h1,h2,h3,h4,h5,h6,h7,h8{line-height: normal;}
+h2,h5,h6,h7,h8{color: #095CC9 ;font-weight: bold ; display: block ; padding-bottom: 25px ; font-size: 20px;}
+a{color: #095CC9 ; text-decoration: none }
+a:hover a:active {text-decoration: none ;}
