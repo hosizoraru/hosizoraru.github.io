@@ -1,5 +1,56 @@
 /* CSS Document */
 
+* {
+margin: auto ; height: auto ;
+}
+#parent >li> span{background: #999999;display: block;width: 100px;border:auto solid #ECEEF2;}
+#parent2 >li> span{background: #999999;display: block;width: 100px;border:auto solid #ECEEF2;}
+#parent3 >li> span{background: #999999;display: block;width: 100px;border:auto solid #ECEEF2;}
+#parent4 >li> span{background: #999999;display: block;width: 100px;border:auto solid #ECEEF2;}
+li {line-height: auto;display: block;}
+li  p{
+		display: inline-block;
+		margin: auto ; height: auto ;;
+		border-left: 5px solid transparent;
+		border-right: 5px solid transparent;
+		border-top: 5px solid#2f2f2f;
+	}
+li>ul{display: none;}
+li>ul>li{border: 1px solid #DEDEDE;width: 199px;}
+#parent span:hover + ul{display: block;}
+#parent span:hover >p{
+	display: inline-block;
+	margin: auto ; height: auto ;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+	border-left: 5px solid#2f2f2f;
+}
+#parent2 span:hover + ul{display: block;}
+#parent2 span:hover >p{
+	display: inline-block;
+	margin: auto ; height: auto ;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+	border-left: 5px solid#2f2f2f;
+}
+#parent3 span:hover + ul{display: block;}
+#parent3 span:hover >p{
+	display: inline-block;
+	margin: auto ; height: auto ;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+	border-left: 5px solid#2f2f2f;
+}
+#parent4 span:hover + ul{display: block;}
+#parent4 span:hover >p{
+	display: inline-block;
+	margin: auto ; height: auto ;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+	border-left: 5px solid#2f2f2f;
+}
+li>ul:hover{display: block;}
+
 h5 {
 	color:blueviolet; font-size: 23px ;
 }
