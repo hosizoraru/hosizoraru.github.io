@@ -4,7 +4,7 @@
 
 ```
 print(" use many codes ")
-System.out.println(" use html + css + js ");  
+System.out.println(" use html + css + js ");
 printf(" md test\n");
 ```
 
@@ -16,7 +16,7 @@ printf(" md test\n");
 - js
 - markdown
 
-#### <table><tr><td bgcolor=yellow>整个项目被摧毁过,尝试重写但是时间比较紧张比较懒还有bug没有修复yellow</td></tr></table>
+#### 整个项目被摧毁过,尝试重写但是时间比较紧张比较懒还有bug没有修复yellow
 
 - [x] 修复项目
 - [x] 重写了一些内容
