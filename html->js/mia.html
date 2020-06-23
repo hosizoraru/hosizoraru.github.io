@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../css/mia.css">
+    <title>menu in air</title>
+</head>
+<body>
+    <div class="action" onclick="actionToggle();">
+        <span>+</span>
+        <ul>
+            <li> <a href="index1.html">首页</a> </li>
+            <li> <a href="classpublic.html">班级公告</a> </li>
+            <li> <a href="classblog.html">班级日志</a> </li>
+            <li> <a href="classphoto.html">班级相册</a> </li>
+            <li> <a href="https://starsky.earth/"  target="_blank" >个人主页</a> </li>
+            <li> <a href="back.html" target="_blank ">留言板</a> </li>
+            <li> <a href="aboutus.html">关于我们</a> </li>
+        </ul>
+    </div>
+    <script type="text/javascript">
+        function actionToggle(){
+            var action = document.querySelector('.action');
+            action.classList.toggle('active')
+        }
+    </script>
+</body>
+</html>

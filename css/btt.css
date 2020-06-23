@@ -3,9 +3,9 @@
     right:10px;
     bottom: 10px;
     height:30px;
-    width: 50px;    
+    width: 50px;
     text-align:center;
-    padding-top:20px;    
+    padding-top:20px;
     background-color: lightblue;
     border-radius: 20%;
     overflow: hidden;
@@ -21,12 +21,11 @@
     top: -50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    content:'Top';
+    content:'top';
     width: 40px;
     color:peru;
     font-weight:bold;
-
-}    
+}
 .box-in{
     visibility: visible;
     display:inline-block;

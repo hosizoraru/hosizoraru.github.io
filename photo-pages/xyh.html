@@ -6,6 +6,10 @@
 	<link rel="stylesheet" type="text/css" href="css/global.css">
 	<link rel="stylesheet" type="text/css" href="css/banju.css">
 	<link rel="stylesheet" type="text/css" href="css/top.css">
+	<link rel="stylesheet" type="text/css" href="css/photo.css">
+	<link href="https://cdn.bootcss.com/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 </head>
 
 <body>
@@ -22,18 +26,53 @@
     	<button type="submit">back</button>
 		</form>
 	</div>
-	<div id="phtots">
-		<img src="img/xiaoyunhui/P_20191031_081901.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_081906.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_081909.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_081912.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_081916.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_081919.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_082920.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_082923.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_085632.jpg" alt="">
-		<img src="img/xiaoyunhui/P_20191031_085636.jpg" alt="">
+	<div class="gallery-section">
+		<div class="inner-width">
+			<h1>校运会</h1>
+			<div class="border"></div>
+			<div class="gallery">
+				<a href="img/xiaoyunhui/P_20191031_081901.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_081901.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_081906.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_081906.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_081909.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_081909.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_081912.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_081912.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_081916.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_081916.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_081919.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_081919.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_082920.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_082920.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_082923.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_082923.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_085632.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_085632.jpg" alt="" />
+				</a>
+				<a href="img/xiaoyunhui/P_20191031_085636.jpg" class="image">
+					<img src="img/xiaoyunhui/P_20191031_085636.jpg" alt="" />
+				</a>
+			</div>
+		</div>
 	</div>
+	<script>
+		$('.gallery').magnificPopup({
+			delegate: 'a',
+			type: 'image',
+			gallery: {
+				enabled: true
+			}
+		})
+	</script>
 			<br>
 	<!--
 		<div id="backtop"><a href="#">TOP↑</a></div>
