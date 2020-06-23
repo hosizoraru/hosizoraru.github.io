@@ -8,7 +8,7 @@ System.out.println(" use html + css + js ");
 printf(" md test\n");
 ```
 
-### <div class="text-blue">html+css+js+markdown</div>
+### html+css+js+markdown
 
 - html
 - css
