@@ -8,7 +8,8 @@ System.out.println(" use html + css + js ");
 printf(" md test\n");
 ```
 
-### <font color=Blue>html+css+js+markdown</font>
+### <div class="text-blue">html+css+js+markdown<a href="#" class="text-inherit">including the link</a>
+</div>
 
 - html
 - css
