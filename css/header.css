@@ -21,8 +21,8 @@ nav a:active {color: blue}
 }
 
 #con_welcome {
-	font: bold ; font-size: 20px ;background-color: aquamarine ;
-	height: auto ; width: auto;
+	font: bold ; font-size: 20px ;
+	height: auto ; width: 1300px;
 	 MARGIN-RIGHT: auto; MARGIN-LEFT: auto;
 }
 #con_activity {
