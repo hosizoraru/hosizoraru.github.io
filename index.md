@@ -23,3 +23,6 @@ login and sign up website test
 
 photo-test  
 -> ![image](https://github.com/hosizoraru/hosizoraru.github.io/raw/master/img/banner0.png)
+
+hi.md  
+-> [hi](hi.md)
