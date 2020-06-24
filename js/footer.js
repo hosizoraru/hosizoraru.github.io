@@ -1,10 +1,9 @@
-document.writeln("<!DOCTYPE html>");
 document.writeln("<html lang=\"en\">");
 document.writeln("<head>");
 document.writeln("    <meta charset=\"UTF-8\">");
 document.writeln("    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">");
 document.writeln("    <title>footer</title>");
-document.writeln("    <link rel=\"stylesheet\" type=\"text/css\" href=\"../css/header.css\">");
+document.writeln("    <link rel=\"stylesheet\" type=\"text/css\" href=\"./css/header.css\">");
 document.writeln("</head>");
 document.writeln("<body>");
 document.writeln("    <footer>");

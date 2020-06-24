@@ -1,4 +1,3 @@
-document.writeln("<!DOCTYPE html>");
 document.writeln("<html lang=\"en\">");
 document.writeln("<head>");
 document.writeln("    <meta charset=\"UTF-8\">");
@@ -7,7 +6,8 @@ document.writeln("    <title>header</title>");
 document.writeln("    <link rel=\"stylesheet\" type=\"text/css\" href=\"../css/header.css\">");
 document.writeln("</head>");
 document.writeln("<body>");
-document.writeln("    <nav class=\"menu\">");
+document.writeln("    <header>");
+document.writeln("        <nav class=\"menu\">");
 document.writeln("        <ul>");
 document.writeln("            <li> <a href=\"index1.html\">首页</a> </li>");
 document.writeln("            <li> <a href=\"classpublic.html\">班级公告</a> </li>");
@@ -18,5 +18,6 @@ document.writeln("            <li> <a href=\"back.html\" target=\"_blank \">留�
 document.writeln("            <li> <a href=\"aboutus.html\">关于我们</a> </li>");
 document.writeln("        </ul>");
 document.writeln("    </nav>");
+document.writeln("    </header>");
 document.writeln("</body>");
 document.writeln("</html>");
