@@ -6,6 +6,9 @@
 顺便贴一下我的 Google blogger (你需要一个可以访问 Google 的办法，否则只能看到 404 )  
 -> [here!](https://hosizorarustar.blogspot.com/)
 
+用 Gridea 初步部署的 blog  :  
+-> [Grideablog](https://vllwl1.coding-pages.com/)
+
 我的评论留言板  
 -> [repo!](https://starsky.earth/back.html)
 
