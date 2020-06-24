@@ -7,19 +7,19 @@
 -> [here!](https://hosizorarustar.blogspot.com/)
 
 用 Gridea 初步部署的 blog  :  
--> [GrideaBlog](https://vllwl1.coding-pages.com/)
+-> [Gridea Blog](https://vllwl1.coding-pages.com/)
 
 Gridea blog 的项目页 :  
--> [GrideaBlogProject](https://hosizora.coding.net/public/hiblog/hiblog/git/files)
+-> [Gridea Blog Project](https://hosizora.coding.net/public/hiblog/hiblog/git/files)
 
 我的评论留言板  
 -> [repo!](https://starsky.earth/back.html)
 
 我的 GitHub 个人主页  
--> [my github](https://github.com/hosizoraru)
+-> [My GitHub](https://github.com/hosizoraru)
 
 本 GitHub pages 的GitHub项目页  
--> [github pages](https://github.com/hosizoraru/hosizoraru.github.io)
+-> [GitHub Pages](https://github.com/hosizoraru/hosizoraru.github.io)
 
 一个我个人使用觉得还不错的 html->js web tool  
 -> [html->js](https://www.sojson.com/jsAndhtml.html)
