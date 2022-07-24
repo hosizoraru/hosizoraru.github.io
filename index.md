@@ -7,10 +7,10 @@
 -> [here!](https://hosizorarustar.blogspot.com/)
 
 用 Gridea 初步部署的 blog  :  
--> [Gridea Blog](https://vllwl1.coding-pages.com/)
+-> [Gridea Blog](https://hosizoraru.github.io/hoshi_blog/)
 
 Gridea blog 的项目页 :  
--> [Gridea Blog Project](https://hosizora.coding.net/public/hiblog/hiblog/git/files)
+-> [Gridea Blog Project](https://github.com/hosizoraru/hoshi_blog/tree/gh-pages)
 
 我的评论留言板  
 -> [repo!](https://starsky.earth/back.html)
