@@ -1,11 +1,11 @@
 # GitHub pages : hosizoraru.github.io  
 
 Hi ! This is my GitHub pages project !  
--> [link to GitHub pages](https://starsky.earth/)
+-> [link to GitHub pages](https://hosizoraru.github.io/)
   
-使用了第三方域名  
--> [https://starsky.earth/](https://starsky.earth/)  
--> .earth
+//使用了第三方域名(没有使用了  
+//-> [https://starsky.earth/](https://starsky.earth/)  
+//-> .earth
   
 域名是从 namecheap 上购买的  
 -> [namecheap website](https://www.namecheap.com/)
