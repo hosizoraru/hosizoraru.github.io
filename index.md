@@ -1,19 +1,19 @@
 # Welcome to my GitHub Pages
 
 我使用此 GitHub Pages 作为我的html作业  
--> 作业主页 [start!](https://starsky.earth/index1.html)
+-> 作业主页 [start!](https://hosizoraru.github.io/index1.html)
 
 顺便贴一下我的 Google blogger (你需要一个可以访问 Google 的办法，否则只能看到 404 )  
 -> [here!](https://hosizorarustar.blogspot.com/)
 
 用 Gridea 初步部署的 blog  :  
--> [Gridea Blog](https://hosizoraru.github.io/voyager_blog/)
+-> [Gridea Blog](https://hosizoraru.github.io/hoshi_blog/)
 
 Gridea blog 的项目页 :  
--> [Gridea Blog Project](https://github.com/hosizoraru/voyager_blog)
+-> [Gridea Blog Project](https://github.com/hosizoraru/voyager_starsky)
 
 我的评论留言板  
--> [repo!](https://starsky.earth/back.html)
+-> [repo!](https://starsky.earth/post/about/)
 
 我的 GitHub 个人主页  
 -> [My GitHub](https://github.com/hosizoraru)
