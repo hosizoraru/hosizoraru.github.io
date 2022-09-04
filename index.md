@@ -7,7 +7,7 @@
 -> [here!](https://hosizorarustar.blogspot.com/)
 
 用 Gridea 初步部署的 blog  :  
--> [Gridea Blog](https://hosizoraru.github.io/hoshi_blog/)
+-> [Gridea Blog](https://starsky.earth/)
 
 Gridea blog 的项目页 :  
 -> [Gridea Blog Project](https://github.com/hosizoraru/voyager_starsky)
